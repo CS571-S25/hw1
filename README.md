@@ -1,4 +1,4 @@
-# CS571-SU25 HW1: Badger Mart
+# CS571-S25 HW1: Badger Mart
 
 Welcome to Badger Mart! For this assignment, you will be completing the functionality of the `.html`, `.css`, and `.js` files. You will also be using our first API. 
 
@@ -24,7 +24,7 @@ Today's sale is Molasses for $3.99, which can only be asked for at the service d
 
 #### Troubleshooting Badger IDs
 
-Not sure what your Badger ID is? Search your email for `CS571 SU25 New Badger ID` sent by `ctnelson2@wisc.edu`.
+Not sure what your Badger ID is? Search your email for `CS571 S25 New Badger ID` sent by `ctnelson2@wisc.edu`.
 
 Never received a Badger ID? [You can self-issue one here.](https://cs571api.cs.wisc.edu/ui/auth) *Please note that it may take **up to a minute** for a new Badger ID to begin working!*
 
